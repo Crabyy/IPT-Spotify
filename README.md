@@ -1,9 +1,9 @@
 # Spotify App for IPT
 
 # frontend
-npm install
+npm install /n
 npm run dev
 
 # server
-npm install
+npm install /n
 node index.js
